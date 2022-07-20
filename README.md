@@ -1,4 +1,8 @@
-# python-coffee-machine
+# Python Practice Tasks
+
+This is a compilation of python scripts done during 2020 while learning Python with the JetBrains course. These were uploaded initially to github each one as a single repository, so I thought it would make more sense to have them grouped in a single repository
+
+# 1. Python Coffee Machine
 Python Coffee Machine project from JetBrains Academy
 
 Description
